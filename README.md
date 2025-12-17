@@ -10,13 +10,13 @@ A análise busca responder perguntas como:
 
 ---
 
-## 📂 Fonte dos Dados
+##  Fonte dos Dados
 Os dados utilizados neste projeto estão disponíveis no Kaggle:  
 👉 [Wine Reviews Dataset](https://www.kaggle.com/datasets/zynicide/wine-reviews)
 
 ---
 
-## ⚙️ Etapas do Projeto
+##  Etapas do Projeto
 1. **Entendimento do negócio**  
 2. **Compreensão dos dados**  
 3. **Tratamento e limpeza dos dados**  
@@ -26,14 +26,14 @@ Os dados utilizados neste projeto estão disponíveis no Kaggle:
 
 ---
 
-## 📊 Ferramentas Utilizadas
+##  Ferramentas Utilizadas
 - Python (Pandas, NumPy, Matplotlib, Seaborn)  
 - Google Colab  
 - WordCloud para visualização de textos  
 
 ---
 
-## 🚀 Como Executar
+##  Como Executar
 1. Clone este repositório:  
    ```bash
    git clone https://github.com/jessystem/An-lise_Vinhos_Dez_2015.git
